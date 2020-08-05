@@ -4,7 +4,7 @@ The RWUS (Real World, Unchanged Semantics) benchmark suite consists of 50 sample
 
 It was built for the OOPSLA 2018 paper "One Tool, Many Languages: Language-Parametric Transformation with Incremental Parametric Syntax" in order to ensure that our semantics-preserving transformations (as well as humans asked to do the same transformations by hand) did indeed preserve semantics on a corpus of real-world code. We expect it to be useful for testing other semantics-preserving transformation, especially ones written to work across multiple languages.
 
-A description of how the 50 samples in this corpus were chosen can be found in Appendix B of the arXiV version of the OOPSLA 2018 paper, and a full log of the random-selection process can be found in the accompanying Docker image containing all information regarding the OOPSLA 2018 experiments [link pending].
+A description of how the 50 samples in this corpus were chosen can be found in Appendix B of the arXiV version of the OOPSLA 2018 paper(https://arxiv.org/abs/1707.04600), and a full log of the random-selection process can be found in the accompanying Docker image containing all information regarding the OOPSLA 2018 experiments (https://zenodo.org/record/1413855#.Xyo0ehNKg8M).
 
 # Structure of a benchmark sample
 
